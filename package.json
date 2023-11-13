@@ -1,0 +1,25 @@
+{
+  "name": "asket",
+  "version": "1.0.0",
+  "description": "ui-library of react-components",
+  "main": "./root/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workonika/asket.git"
+  },
+  "keywords": [
+    "asket",
+    "ui-library",
+    "react",
+    "ui"
+  ],
+  "author": "Kuzmin Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workonika/asket/issues"
+  },
+  "homepage": "https://github.com/workonika/asket#readme"
+}
