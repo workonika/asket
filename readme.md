@@ -4,4 +4,4 @@
 
 ## Opportunities
 
-Labrary give all popular components.
+Labrary gives all popular components.
